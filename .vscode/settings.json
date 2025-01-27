@@ -6,6 +6,8 @@
         "mqttclient.h": "c",
         "assert.h": "c",
         "stdlib.h": "c",
-        "app_buffer.h": "c"
+        "app_buffer.h": "c",
+        "algorithm": "c",
+        "app_task.h": "c"
     }
 }
